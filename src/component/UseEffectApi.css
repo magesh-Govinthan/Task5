@@ -66,14 +66,14 @@
 }
 .inner-p{
     align-content:start;
-    line-height:5px;
+    line-height:10px;
 }
 #p-btn{
      background-color:#ffce12;
      border-radius:7px;
-     padding:5px 15px;
+     padding:5px 10px;
      border:none;
-     font-size:15px;
+     font-size:small;
 }
 h2,h4{
     font-size:small;
