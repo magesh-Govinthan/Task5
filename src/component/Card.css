@@ -65,7 +65,7 @@
     display:flex;
     gap:2px;
     height: 100px;
-    width:200px;
+    width:400px;
  align-items: center;
     padding:5px;
     border-radius:7px;
@@ -82,7 +82,7 @@
 }
 .inner-pa{
     align-content:start;
-    line-height:10px;
+    line-height:20px;
 }
 .p-btn{
     margin-left:125px ;
