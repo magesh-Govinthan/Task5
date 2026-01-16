@@ -26,13 +26,13 @@ function Navbar(props) {
       </div>
       <div className='navi'>
         <div class='nav-child4'>
-        <h1><FaUserCircle /></h1>
-      <h1>Sign in</h1>
+        <h1 ><FaUserCircle /></h1>
+      <h1 className="tit">Sign in</h1>
       </div>
       <div className='nav-child3' onClick={()=>handlePage()}>
         <button>{props.count}</button>
         <h1 ><BiCartAdd/></h1>
-      <h1>Cart</h1>
+      <h1 className="tit">Cart</h1>
       </div>
       
       </div>

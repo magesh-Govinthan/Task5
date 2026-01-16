@@ -95,6 +95,9 @@
      border:none;
      font-size: small;
     }
+    h5,h6{
+        font-size:small;
+    }
 
     }
    

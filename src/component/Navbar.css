@@ -93,7 +93,7 @@
     }
 .nav-child2 input{
     height:30px;
-    width:50px;
+    width:60px;
     border-radius:3px;
     border:none;
 }
@@ -113,6 +113,9 @@ h1{
     border:none;
     border-radius:3px;
     
+}
+.tit{
+    display:none;
 }
 
 .nav-child3{
